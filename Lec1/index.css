@@ -1,0 +1,9 @@
+ /* #heading {
+    color: brown;
+} */
+
+#heading {
+    color: brown;
+    font-size: 24px;
+    text-align: center;
+}
